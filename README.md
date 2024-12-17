@@ -1,6 +1,6 @@
-Number Categorizer: Even or Odd
+# Number Categorizer: Even or Odd
 
-Description:
+# Description:
 This Dart program categorizes a list of numbers into even or odd.
 
 The program is written in Dart and demonstrates the use of:
